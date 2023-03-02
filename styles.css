@@ -1,1 +1,28 @@
 /* Write your CSS here! css*/
+p {
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-right: 10px;
+    margin-left: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+img {
+    height: 300px;
+    width: 600px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+body {
+    background-color:darkgrey;
+}
+
+.center {
+    text-align: center;
+}
+
+#list-color {
+    text-decoration-color: gold;
+}
