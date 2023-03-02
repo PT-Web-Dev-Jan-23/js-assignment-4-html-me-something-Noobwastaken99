@@ -1,1 +1,39 @@
-/* Write your CSS here! */
+/* Write your CSS here! css*/
+body {
+    margin: 8px, 8px, 8px, 8px;
+}
+
+p {
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-right: 10px;
+    margin-left: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+img {
+    height: 300px;
+    width: 600px;
+    margin-bottom: 30px;
+}
+
+body {
+    background-color:darkgrey;
+}
+
+.center {
+    text-align: center;
+}
+
+.funParagraph {
+    text-align: right;
+}
+
+#mainHeading {
+    color: red;
+}
+
+#testP {
+    color: green;
+}
